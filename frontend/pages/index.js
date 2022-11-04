@@ -249,7 +249,7 @@ export default function Home() {
             </Head>
             <div className={styles.main}>
                 <div className={styles.content}>
-                    <h1 className={styles.title}>Welcome to Vodka ICO!</h1>
+                    <h1 className={styles.title}>¡Bienvenido a la Vodka ICO!</h1>
                     <div className={styles.description}>
                         ¡Ya puedes reclamar tus tokens Vodka(JAJ)!
                     </div>

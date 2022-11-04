@@ -13,7 +13,6 @@ async function main() {
     await deployedVodkaTokenContract.deployed();
 
     console.log("Vodka Token Contract Address:", deployedVodkaTokenContract.address);
-    //0x20352538d4f35e0E458Af0178C054aBE3DDeAe61
 
 }
 
